@@ -4,7 +4,7 @@
 ### Telegram Store & Customer Support Demo
 
 Демонстрационный проект Telegram-магазина, разработанный на Python.
-
+![IT_Programm1st Preview](IT_Programm1st_demo_video_preview.jpg)
 ## 🎬 Демонстрация проекта
 
 ![IT_Programm1st Preview](IT_Programm1st_demo_video_preview.jpg)
